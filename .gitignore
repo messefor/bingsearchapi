@@ -1,0 +1,10 @@
+.DS_Store
+*.jpg
+*.jpeg
+*.JPG
+*.png
+*.log
+.python-version
+imgs/
+url/
+__pycache__/
